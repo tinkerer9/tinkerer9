@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @tinkerer9
 - 👀 I’m interested in coding, electonics (mainly Arduinos), and making!
-
-GitHub is <i>**AWESOME!!!**</i>
-<!---
-tinkerer9/tinkerer9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐙 I love GitHub because open source and sharing code is amazing!
+- 👦 I got into coding from a young age (8 years old) and have loved it ever since.
+- ♾️ The languages I know are HTML/Javascript/CSS, Python, and Arduino.
