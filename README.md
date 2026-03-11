@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, electonics (mainly Arduinos), and making!
 - 🐙 I love GitHub because open source and sharing code is amazing!
 - 👦 I got into coding from a young age (8 years old) and have loved it ever since.
-- ♾️ The languages I know are HTML/Javascript/CSS, Python, and Arduino.
+- ♾️ The languages I know are HTML/JavaScript/CSS, Python, and Arduino.
