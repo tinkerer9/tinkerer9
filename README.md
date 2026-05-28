@@ -2,5 +2,5 @@
 👋 Hi, I’m @tinkerer9!  
 ⚙️ I’m interested in coding, electonics (mainly Arduinos), and making.  
 😎 I love GitHub because open source and sharing code with others is amazing!  
-👦 I got into coding from a young age (8 years old) and have loved it ever since.  
+👦 I got into coding from a young age (&approx;8 years old) and have loved it ever since.  
 💬 The languages I know are HTML, JavaScript, CSS, Python, and Arduino (C++).
